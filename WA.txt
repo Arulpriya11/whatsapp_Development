@@ -7,3 +7,5 @@ Author : Arulpriya
 2. Chat screen page code.
 
 3. Last seen code.
+
+4. Hiding the last seen code.
